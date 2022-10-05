@@ -65,39 +65,6 @@
         "destructuring"
       ],
       "correctIndex": "1"
-    },
-    {
-      "prompt": "Whats my favorite car",
-      "answers": [
-        "Mercedes",
-        "BMW",
-        "Jeep",
-        "Supraaaaa"
-      ],
-      "correctIndex": "3",
-      "id": 7
-    },
-    {
-      "prompt": "What is my favourite color?",
-      "answers": [
-        "red",
-        "blue",
-        "purple",
-        "black"
-      ],
-      "correctIndex": "2",
-      "id": 8
-    },
-    {
-      "prompt": "What is my favourite color?",
-      "answers": [
-        "red",
-        "blue",
-        "purple",
-        "black"
-      ],
-      "correctIndex": "2",
-      "id": 9
     }
   ]
 }
